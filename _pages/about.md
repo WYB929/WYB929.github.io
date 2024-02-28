@@ -11,7 +11,7 @@ I am currently a Computer Science M.S. student at [NYU Courant](https://cs.nyu.e
 <br>
 My research interest lays on the combination of machine learning and robotics, especially in dataset creation, data processing, ML model design, and real-world experiments for diverse, multi-modal robot manipulation tasks in both simulation and real world environments. I am currently working with Prof. [Lerrel Pinto](https://www.lerrelpinto.com) on transformer based robot learning models and related real world robot experiments. 
 
-My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf).
+<!-- My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf). -->
 
 ### Publications
 From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data([arxiv](https://arxiv.org/abs/2210.10047) | [link](https://play-to-policy.github.io)) <br>
