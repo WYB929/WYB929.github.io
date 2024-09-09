@@ -21,7 +21,7 @@ repository               : "WYN929/WYB929.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_4.png"
+  avatar           : "profile_photo_1.png"
   name             : "Yibin Wang"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "M.S. Student in Computer Science at NYU Courant"

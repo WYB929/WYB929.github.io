@@ -14,6 +14,10 @@ My research interest lies in the combination of machine learning and robotics, e
 <!-- My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf). -->
 
 ### Publications
-From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data([arxiv](https://arxiv.org/abs/2210.10047) | [link](https://play-to-policy.github.io)) <br>
+Behavior Generation with Latent Actions([arxiv](https://arxiv.org/abs/2403.03181) | [Project Site](https://sjlee.cc/vq-bet/)) <br>
+Seungjae Lee, **Yibin Wang**, Haritheja Etukuru, H. Jin Kim, Nur Muhammad Mahi Shafiullah, Lerrel Pinto<br>
+**Spotlight (Top3.5%)**, International Conference on Machine Learning, 2024 <br>
+<br>
+From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data([arxiv](https://arxiv.org/abs/2210.10047) | [Project Site](https://play-to-policy.github.io)) <br>
 ZiChen Jeff Cui, **Yibin Wang**, Nur Muhammad Mahi Shafiullah, Lerrel Pinto <br>
 **Notable Top 5 (Oral)**, International Conference on Learning Representations, 2023
