@@ -14,10 +14,14 @@ My research interest lies in the combination of machine learning and robotics, e
 <!-- My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf). -->
 
 ### Publications
-Behavior Generation with Latent Actions([arxiv](https://arxiv.org/abs/2403.03181) | [Project Site](https://sjlee.cc/vq-bet/)) <br>
+EduBot – Can LLMs Solve Personalized Learning and Programming Assignments? <br>
+**Yibin Wang**, Jiaxi Xie, Lakshmi Subramanian<br>
+Annual AAAI Conference on Artificial Intelligence, AI4EDU Workshop, 2025
+
+Behavior Generation with Latent Actions([paper](https://arxiv.org/abs/2403.03181) | [Project Site](https://sjlee.cc/vq-bet/)) <br>
 Seungjae Lee, **Yibin Wang**, Haritheja Etukuru, H. Jin Kim, Nur Muhammad Mahi Shafiullah, Lerrel Pinto<br>
 <span style="color:red">**Spotlight (Top 3.5%)**</span>, International Conference on Machine Learning, 2024 <br>
 <br>
-From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data([arxiv](https://arxiv.org/abs/2210.10047) | [Project Site](https://play-to-policy.github.io)) <br>
+From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data([paper](https://arxiv.org/abs/2210.10047) | [Project Site](https://play-to-policy.github.io)) <br>
 ZiChen Jeff Cui, **Yibin Wang**, Nur Muhammad Mahi Shafiullah, Lerrel Pinto <br>
 <span style="color:red">**Notable Top 5% (Oral)**</span>, International Conference on Learning Representations, 2023
