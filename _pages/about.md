@@ -9,7 +9,6 @@ redirect_from:
 
  I am currently a M.S. student in Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html). Before that, I received my Bachelor's degree in Computer Science and Mathematics at NYU Courant.<br>
 <br>
-
 My research interests lie at the intersection of machine learning and robotics, with a particular focus on dataset creation, data processing, ML model design, and conducting real-world experiments for diverse, multimodal robotic manipulation tasks in both simulated and real-world environments. My goal is to enable robots to generalize across a wide range of tasks and environments while reducing dependence on labor-intensive data collection. I am currently working with Prof. [Lerrel Pinto](https://www.lerrelpinto.com) on transformer-based robot learning models and related real-world robot experiments. 
 
 <!-- My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf). -->
