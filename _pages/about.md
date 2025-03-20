@@ -17,7 +17,7 @@ I am currently working with Prof. [Lerrel Pinto](https://www.lerrelpinto.com) on
 
 ### Publications
 EduBot – Can LLMs Solve Personalized Learning and Programming Assignments?([Paper](https://drive.google.com/file/d/13lCEJ5pIo5n9JKQoulEGgK6ToT3pi2f8/view) | [Workshop Site](https://ai4ed.cc/workshops/aaai2025)) <br>
-**Yibin Wang***, Jiaxi Xie*, Lakshmi Subramanian<br>
+**Yibin Wang\***, Jiaxi Xie\*, Lakshmi Subramanian<br>
 Annual AAAI Conference on Artificial Intelligence, AI4EDU Workshop, 2025
 
 Behavior Generation with Latent Actions([Paper](https://arxiv.org/abs/2403.03181) | [Project Site](https://sjlee.cc/vq-bet/)) <br>
