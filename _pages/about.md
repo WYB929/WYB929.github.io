@@ -16,7 +16,7 @@ I am currently working with Prof. [Lerrel Pinto](https://www.lerrelpinto.com) on
 <!-- My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf). -->
 
 ### Publications
-EduBot – Can LLMs Solve Personalized Learning and Programming Assignments?([Paper](https://drive.google.com/file/d/13lCEJ5pIo5n9JKQoulEGgK6ToT3pi2f8/view) | [Workshop Site](https://ai4ed.cc/workshops/aaai2025)) <br>
+EduBot – Can LLMs Solve Personalized Learning and Programming Assignments?([Paper](https://arxiv.org/abs/2504.17824) | [Workshop Site](https://ai4ed.cc/workshops/aaai2025)) <br>
 **Yibin Wang\***, Jiaxi Xie\*, Lakshmi Subramanian<br>
 Annual AAAI Conference on Artificial Intelligence, AI4EDU Workshop, 2025
 
