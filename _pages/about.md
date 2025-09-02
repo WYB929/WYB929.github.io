@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a first-year Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu), where I am a member of the [Xenobot Lab](https://www.xenobot.group/) advised by Prof. [Sam Kriegman](https://skriegman.github.io).  <br> 
 
- I am currently a M.S. student in Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html). Before that, I received my Bachelor's degree in Computer Science and Mathematics at NYU Courant.<br>
+Previously, I earned my Bachelor’s degree in Computer Science and Mathematics, as well as my Master’s degree in Computer Science, from [NYU Courant](https://cs.nyu.edu/home/index.html). I was fortunate to be advised by Prof. [Lerrel Pinto](https://www.lerrelpinto.com) and Prof. [Lakshminarayanan Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).  
 <br>
 My research interests lie at the intersection of machine learning and robotics, with a particular focus on dataset creation, data processing, ML model design, and conducting real-world experiments for diverse, multimodal robotic manipulation tasks in both simulated and real-world environments. My goal is to enable robots to generalize across a wide range of tasks and environments while minimizing reliance on labor-intensive data collection. Additionally, I am interested in leveraging large language models (LLMs) and vision-language models (VLMs) to enhance robots' capabilities in action and task planning. <br>
 <br>
-I am currently working with Prof. [Lerrel Pinto](https://www.lerrelpinto.com) on robot learning policies and related real-world robot experiments. 
 
 <!-- My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf). -->
 
