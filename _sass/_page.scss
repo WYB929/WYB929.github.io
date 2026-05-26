@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12);
   }
 
   .page__inner-wrap {
@@ -49,6 +49,16 @@
 }
 
 .page__content {
+  .about-intro {
+    text-align: justify;
+    text-align-last: left;
+    text-justify: inter-word;
+    hyphens: auto;
+
+    p {
+      margin-bottom: 0.75em;
+    }
+  }
 
   h2 {
     padding-bottom: 0.5em;

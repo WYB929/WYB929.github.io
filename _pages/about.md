@@ -6,12 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu), where I am a member of the [Xenobot Lab](https://www.xenobot.group/) advised by Prof. [Sam Kriegman](https://skriegman.github.io).  <br> 
+<div class="about-intro" markdown="1">
 
-Previously, I earned my Bachelor’s degree in Computer Science and Mathematics, as well as my Master’s degree in Computer Science, from [NYU Courant](https://cs.nyu.edu/home/index.html). I was fortunate to be advised by Prof. [Lerrel Pinto](https://www.lerrelpinto.com) and Prof. [Lakshminarayanan Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).  
-<br>
-My research interests lie at the intersection of machine learning and robotics, with a particular focus on dataset creation, data processing, ML model design, and conducting real-world experiments for diverse, multimodal robotic manipulation tasks in both simulated and real-world environments. My goal is to enable robots to generalize across a wide range of tasks and environments while minimizing reliance on labor-intensive data collection. Additionally, I am interested in leveraging large language models (LLMs) and vision-language models (VLMs) to enhance robots' capabilities in action and task planning. I am currently exploring the potential of genetic algorithms on robot design and learning.<br>
-<br>
+I am a first-year Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu), where I am a member of the [Xenobot Lab](https://www.xenobot.group/) advised by Prof. [Sam Kriegman](https://skriegman.github.io).
+
+Previously, I earned my Bachelor’s degree in Computer Science and Mathematics, as well as my Master’s degree in Computer Science, from [NYU Courant](https://cims.nyu.edu/dynamic/). I was fortunate to be advised by Prof. [Lerrel Pinto](https://www.lerrelpinto.com) and Prof. [Lakshminarayanan Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
+
+My research focuses on robot learning, with experience in real-world robotic manipulation, dataset creation, data processing, and multimodal manipulation experiments across both simulated and physical environments. I am currently working on combining evolutionary algorithms with machine learning to co-optimize robot morphologies and control policies. More broadly, I study how representations of robot design and behavior spaces can improve generalization, adaptation, and co-optimization in embodied systems. I am also interested in vision-language-action models and world models for robotic task and action planning.
+
+</div>
 
 <!-- My CV could be found [here](https://wyb929.github.io/files/CV_Yibin_Wang.pdf). -->
 
