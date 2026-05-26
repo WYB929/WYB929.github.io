@@ -1,6 +1,10 @@
 # Ignore the contents of the _site directory
 _site/
 
+# Ignore locally installed Ruby gems
+.bundle/
+vendor/
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
