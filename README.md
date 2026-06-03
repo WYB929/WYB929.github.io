@@ -20,12 +20,29 @@ See more info at https://academicpages.github.io/
 
 ## Running Locally
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+When you are working on the website, preview changes locally before pushing them to GitHub.
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+On macOS with Homebrew Ruby, run:
+
+```bash
+cd /Users/ybw/Documents/WYB929.github.io
+
+export PATH="/opt/homebrew/opt/ruby@3.1/bin:/opt/homebrew/lib/ruby/gems/3.1.0/bin:/opt/homebrew/bin:$PATH"
+
+bundle check || bundle install
+
+bundle exec jekyll serve --config _config.yml,_config.dev.yml --host 127.0.0.1 --port 4000
+```
+
+Then open `http://127.0.0.1:4000` in your browser. Keep the Terminal window open while previewing, and press `Ctrl-C` when you want to stop the local server.
+
+To check that the generated homepage does not include a blocked external script such as `polyfill.io`, run:
+
+```bash
+curl http://127.0.0.1:4000 | grep polyfill
+```
+
+If the command prints nothing, that script is not present in the local page.
 
 
 # Maintenance 
