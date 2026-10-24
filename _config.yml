@@ -22,9 +22,9 @@ repository               : "WYN929/WYB929.github.io"
 author:
   # Biographic information
   avatar           : "profile_photo_1.png"
-  name             : "Yibin Wang"
+  name             : "Yibin Wang 王一斌"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Ph.D. in Computer Science at Northwestern University"
+  bio              : "Ph.D. Student in Computer Science at Northwestern University"
   location         : "Evanston, IL"
   employer         : "Northwestern University"
   uri              :  # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=UOW4otcAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0009-7595-4339"
   pubmed           : # URL
   researchgate     : # URL
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yibin-wang-5686631aa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

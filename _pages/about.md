@@ -8,11 +8,11 @@ redirect_from:
 ---
 <div class="about-intro" markdown="1">
 
-I am a first-year Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu), where I am a member of the [Xenobot Lab](https://www.xenobot.group/) advised by Prof. [Sam Kriegman](https://skriegman.github.io).
+I am a second-year Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu), where I am a member of the [Xenobot Lab](https://www.xenobot.group/) advised by Prof. [Sam Kriegman](https://skriegman.github.io).
 
 Previously, I earned my Bachelor’s degree in Computer Science and Mathematics, as well as my Master’s degree in Computer Science, from [NYU Courant](https://cims.nyu.edu/dynamic/). I was fortunate to be advised by Prof. [Lerrel Pinto](https://www.lerrelpinto.com) and Prof. [Lakshminarayanan Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
 
-My research focuses on robot learning, with experience in real-world robotic manipulation, dataset creation, data processing, and multimodal manipulation experiments across both simulated and physical environments. I am currently working on combining evolutionary algorithms with machine learning to co-optimize robot morphologies and control policies. More broadly, I study how representations of robot design and behavior spaces can improve generalization, adaptation, and co-optimization in embodied systems. I am also interested in vision-language-action models and world models for robotic task and action planning.
+My research focuses on robot learning and evolutionary robotics, exploring how robot bodies, sensing, and learned behaviors can develop together. My earlier work studied multimodal behavior learning and robotic manipulation in both simulated and real-world environments. I currently combine evolutionary algorithms with machine learning to jointly optimize robot morphologies and control policies, with an emphasis on preserving and reusing knowledge across changing embodiments. More broadly, I am interested in structured representations for robot design, the co-evolution of bodies and sensors, and vision-language-action models and world models for robotic planning and control.
 
 </div>
 
